@@ -27,6 +27,9 @@ The **NIT Hamirpur College Event Management** project is a MERN stack-based plat
 - **Deployment**: Netlify
 
 ---
+## Screenshot
+
+![Website Screenshot](assets)
 
 ## Getting Started
 
